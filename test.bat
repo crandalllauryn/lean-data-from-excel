@@ -1,1 +1,0 @@
-python lean_data_from_teams.py Mission_2.xlsx
